@@ -11,8 +11,8 @@ Utilizei Ubuntu 22.04 LTS para executar todos os códigos aqui listados.
 
 Atividade   | Conteúdo
 :-----------: | ------ | 
-[Lista 01](./Lista/) | Manipulação de Processos
-[Lista 02](./Lista/) | Threads, Escalonamento e Sistemas de Arquivos
+[Lista 01](./Lista%2001/) | Manipulação de Processos
+[Lista 02](./Lista%2002/) | Threads, Escalonamento e Sistemas de Arquivos
 
 ## Bibliografia Utilizada
 - [Sistemas Operacionais Modernos - Tanenbaum - 4 Edição
